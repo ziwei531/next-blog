@@ -1,53 +1,53 @@
 .card {
-  margin-top: 100px;
-  text-align: left;
+	margin-top: 100px;
+	text-align: left;
 }
 
 .btn-back {
-  float: left;
-  background-color: white;
-  color: black;
-  border: 2px solid #555555;
-  border-radius: 3px;
-  padding: 8px 16px;
-  font-size: 1.2rem;
-  transition-duration: 0.4s;
-  margin-left: 14px;
+	float: left;
+	background-color: white;
+	color: black;
+	border: 2px solid #555555;
+	border-radius: 3px;
+	padding: 8px 16px;
+	font-size: 1.2rem;
+	transition-duration: 0.4s;
+	margin-left: 14px;
 }
 
 .btn-back:hover {
-  background-color: #555555;
-  color: white;
+	background-color: #555555;
+	color: white;
 }
 
 .date {
-  padding: 10px;
-  background-color: rgb(244, 244, 244);
+	padding: 10px;
+	background-color: rgb(244, 244, 244);
 }
 
 .img-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .post-img {
-  width: 80%;
-  border-radius: 10px;
-  display: flex;
-  flex-wrap: wrap;
+	width: 80%;
+	border-radius: 10px;
+	display: flex;
+	flex-wrap: wrap;
 }
 
-.content  {
-  font-size: 110%;
-  line-height: 2.3;
-  font-weight: bold;
-  margin: 10px 0;
+.content {
+	font-size: 110%;
+	line-height: 2.3;
+	font-weight: bold;
+	margin: 10px 0;
 }
 
 @media (max-width: 1102px) {
-  .container {
-    /* padding: 0 2rem; */
-    padding: 3% 2%;
-  }
+	.container {
+		/* padding: 0 2rem; */
+		padding: 3% 2%;
+	}
 }

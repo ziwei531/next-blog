@@ -1,11 +1,9 @@
 ---
-title: 'Second Blog!'
-date: 'March 17 2022'
-excerpt: 'This is a testing for now.'
-cover_image: '/images/posts/1wzw-01.png'
+title: "Second Blog!"
+date: "March 17 2022"
+excerpt: "This is a testing for now."
+cover_image: "/images/posts/1wzw-01.png"
 ---
-
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque lorem orci, hendrerit quis lectus at, auctor pulvinar augue. Vivamus risus turpis, laoreet iaculis neque et, laoreet tempus purus. Pellentesque feugiat urna ut mi consectetur sollicitudin. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi viverra interdum risus, nec condimentum arcu lobortis sed. Etiam pulvinar neque et eros rutrum tristique. Vestibulum eget consectetur purus. Morbi sed justo quis mauris cursus congue. In eget convallis eros. Donec volutpat eleifend sapien, nec interdum sapien accumsan sed. Suspendisse nec mollis nisi, eu maximus neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce a dolor mattis, tempus diam vel, consequat mi. Nulla iaculis velit arcu.
 
@@ -15,4 +13,4 @@ In hac habitasse platea dictumst. Ut lectus augue, tempus quis lacinia eu, vulpu
 
 Nam placerat hendrerit sapien, quis dignissim purus pretium sed. Sed sit amet bibendum erat. Ut sed fringilla libero. Vivamus varius, nisl non convallis fermentum, arcu quam venenatis nulla, vitae blandit dolor neque eget odio. Vestibulum commodo iaculis dictum. Etiam ultrices tincidunt justo, eget ornare leo ornare eget. Vestibulum accumsan enim non auctor auctor. Sed nec dui elit. Morbi ac neque ac turpis porttitor interdum.
 
-Nunc gravida nisl neque, et scelerisque magna posuere ut. Nunc lacus neque, fringilla vel purus at, commodo convallis est. Ut vitae lectus odio. Proin non lorem sed massa blandit convallis. Cras sed ante vitae lorem volutpat porttitor feugiat eget metus. Integer pharetra consectetur purus quis sollicitudin. Cras gravida orci ac posuere sodales. Etiam euismod, urna in malesuada posuere, purus nibh ultricies sem, in dapibus tellus felis sit amet tortor. 
+Nunc gravida nisl neque, et scelerisque magna posuere ut. Nunc lacus neque, fringilla vel purus at, commodo convallis est. Ut vitae lectus odio. Proin non lorem sed massa blandit convallis. Cras sed ante vitae lorem volutpat porttitor feugiat eget metus. Integer pharetra consectetur purus quis sollicitudin. Cras gravida orci ac posuere sodales. Etiam euismod, urna in malesuada posuere, purus nibh ultricies sem, in dapibus tellus felis sit amet tortor.

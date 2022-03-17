@@ -1,0 +1,11 @@
+.container {
+  /* padding: 0 2rem; */
+  padding: 3% 25%;
+  text-align: center;
+}
+
+@media (max-width: 1500px) {
+  .container {
+    padding: 3% 2%;
+  }
+}

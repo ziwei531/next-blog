@@ -20,6 +20,24 @@
 	color: white;
 }
 
+.btn-back-btm {
+	float: left;
+	background-color: white;
+	color: black;
+	border: 2px solid #555555;
+	border-radius: 3px;
+	padding: 8px 16px;
+	font-size: 1.2rem;
+	transition-duration: 0.4s;
+	margin-left: 14px;
+	margin-bottom: 30px;
+}
+
+.btn-back-btm:hover {
+	background-color: #555555;
+	color: white;
+}
+
 .date {
 	padding: 10px;
 	background-color: rgb(244, 244, 244);

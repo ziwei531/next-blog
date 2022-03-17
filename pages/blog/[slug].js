@@ -34,6 +34,9 @@ export default function PostPage({ frontmatter, slug, content }) {
 						></div>
 					</div>
 				</Card>
+				<Link href="/">
+					<a className={classes["btn-back"]}>Go back</a>
+				</Link>
 			</Container>
 		</>
 	);

@@ -29,6 +29,6 @@ The neat part about this website is that, everytime when I wish to create a new 
 - gray-matter
 - Vercel for deployment
 
-If you are interested in the source code for this website, you may visit it <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/" target="_blank" style="text-decoration: underline; text-decoration-color: steelblue;">here</a>
+If you are interested in the source code for this website, you may visit it <a href="https://github.com/ziwei531/next-blog" target="_blank" style="text-decoration: underline; text-decoration-color: steelblue;">here</a>
 
 Overall, one of the difficult parts regarding the process of me creating this website is that I had to learn how to communicate to files locally using the built in Node Js's fs function and also how to get them passed on to props. Other than that, armed with basic knowledge of React, I was able to output the posts without much difficulty. The styling was fairly simple as well, as I aimed for it look simplistic yet elegant. The hard part was only the positioning of the cards on the homepage, which truly challeged my very limited flexbox knowledge to its limits.
